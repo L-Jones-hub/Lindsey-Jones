@@ -569,6 +569,9 @@ p {
   font-weight: 500;
   text-transform: uppercase;
   display: block;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .services-block .separator {
@@ -581,6 +584,9 @@ p {
   font-size: 44px;
   color: #b8a07e;
   line-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .services-slider .swiper-pagination {
