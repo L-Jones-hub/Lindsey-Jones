@@ -15,8 +15,10 @@ This is my professional portfolio which showcases some projects, my resume, and 
 
 ## How to Use
 
-Scroll down to see the different sections of my portfolio. 
+Scroll down to see the different sections of my portfolio.
 Once you've scrolled past the large, green picture, a menu will appear in the top right. Use the menu to navigate the page or see my resume.
+
+![Screenshot](./assets/img/Portfolio-Screenshot.png)
 
 ---
 
